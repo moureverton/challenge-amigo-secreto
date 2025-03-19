@@ -15,7 +15,7 @@ Repositório criado para a aplicação de sorteio de amigo secreto!
 ### Como usar?
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/moureverton/amigo-secreto.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
